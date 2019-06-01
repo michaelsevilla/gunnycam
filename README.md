@@ -32,6 +32,12 @@ under the Alexa Voice Service. See [1] for more information.
     auth_token.sh <CODE> <CLIENT ID> <CLIENT SECRET>
     ```
 
+4. Start the camera:
+
+    ```bash
+    gunnycam.py
+    ```
+
 ## References
 
 [1] https://github.com/gravesjohnr/AlexaNotificationCurl

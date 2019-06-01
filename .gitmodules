@@ -1,0 +1,3 @@
+[submodule "alexa"]
+	path = alexa
+	url = https://github.com/michaelsevilla/AlexaNotificationCurl.git
